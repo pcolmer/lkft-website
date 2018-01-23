@@ -8,5 +8,5 @@ permalink: /faq/
 
 Why not?
 
-Broken link: http://www.linaro.org/who-cares
+[Broken link](http://www.linaro.org/who-cares)
 
